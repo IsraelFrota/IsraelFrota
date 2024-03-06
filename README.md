@@ -24,5 +24,5 @@ Obrigado por escolher a **Israel Frota Inteligência Contábil**! Estamos ansios
 
 Atenciosamente,
 
-A Equipe da **Israel Frota**.
+A Equipe da **Israel Frota Inteligência Contábil**.
 
