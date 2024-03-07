@@ -1,3 +1,5 @@
+<img src="assets/banner.png" href="Banner da Israel Frota" />
+
 ## Bem-vindo à Israel Frota Inteligência Contábil!
 
 ## Sobre nós
