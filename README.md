@@ -15,7 +15,7 @@ Estamos disponíveis para ajudar e responder a quaisquer perguntas que você pos
 
     E-mail: comercial@israelfrota.com.br
     WhatsApp: (88) 9 8843-0020
-    Telefone: (00) 3671-1172
+    Telefone: (88) 3671-1172
     Website: https://israelfrota.com.br/contato/
 
 Não hesite em nos contatar se precisar de assistência ou tiver alguma dúvida.
