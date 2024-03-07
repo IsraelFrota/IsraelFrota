@@ -7,7 +7,7 @@
 Não somos só uma contabilidade, somos geradores de soluções.
 Aqui, organizamos sua empresa e te garantimos maior eficiência tributária.
 
-## Nossa Equipe
+## Nossa equipe
 
 A equipe da **Israel Frota** é composta por profissionais altamente qualificados e apaixonados pelo que fazem. Estamos comprometidos em oferecer soluções inovadoras e de alta qualidade para nossos clientes.
 
