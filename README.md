@@ -1,4 +1,4 @@
-<img src="assets/banner.png" href="Banner da Israel Frota" />
+<img src="assets/banner.svg" href="Banner da Israel Frota" />
 
 ## Bem-vindo à Israel Frota Inteligência Contábil!
 
@@ -28,3 +28,4 @@ Atenciosamente,
 
 A Equipe da **Israel Frota Inteligência Contábil**.
 
+<img src="assets/banner.svg" href="Banner da Israel Frota" />
