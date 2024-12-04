@@ -1,5 +1,3 @@
-<img src="assets/banner.svg" href="Banner da Israel Frota" />
-
 ## Bem-vindo à Israel Frota Inteligência Contábil!
 
 ## Sobre nós
@@ -40,5 +38,3 @@ Obrigado por escolher a **Israel Frota Inteligência Contábil**! Estamos ansios
 Atenciosamente,
 
 A Equipe da **Israel Frota Inteligência Contábil**.
-
-<img src="assets/banner.svg" href="Banner da Israel Frota" />
